@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to anarchy-artichokey's Site
 
 You can use the [editor on GitHub](https://github.com/anarchy-artichokey/anarchy-artichokey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](StaticSupernovaLogo.png) ![Image](thecatsgoetitleteaser.png)
+Friday Night Funkin': Static Supernova | The Cat's Gone
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
